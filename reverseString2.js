@@ -12,3 +12,4 @@ function reverseString(s) {
 
 reverseString("hello");
 reverseString(12345);
+
